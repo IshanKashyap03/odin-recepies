@@ -1,0 +1,16 @@
+.headings{
+    background-color: orange;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+}
+
+li{
+    font-size: 18px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
